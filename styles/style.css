@@ -81,7 +81,6 @@ h2 span {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    transform: rotate(-90deg);
     background-size: cover;
     margin: 100px auto 0;
 }
